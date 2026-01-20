@@ -1,0 +1,3 @@
+[console_scripts]
+clock_node = clock_node.clock_node:main
+
