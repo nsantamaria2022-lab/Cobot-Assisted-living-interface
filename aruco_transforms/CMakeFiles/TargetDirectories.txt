@@ -1,0 +1,11 @@
+/home/cobot/cobot-ws/build/aruco_transforms/CMakeFiles/uninstall.dir
+/home/cobot/cobot-ws/build/aruco_transforms/CMakeFiles/aruco_transforms_uninstall.dir
+/home/cobot/cobot-ws/build/aruco_transforms/CMakeFiles/aruco_transforms_params.dir
+/home/cobot/cobot-ws/build/aruco_transforms/CMakeFiles/aruco_transforms.dir
+/home/cobot/cobot-ws/build/aruco_transforms/CMakeFiles/test.dir
+/home/cobot/cobot-ws/build/aruco_transforms/CMakeFiles/edit_cache.dir
+/home/cobot/cobot-ws/build/aruco_transforms/CMakeFiles/rebuild_cache.dir
+/home/cobot/cobot-ws/build/aruco_transforms/CMakeFiles/list_install_components.dir
+/home/cobot/cobot-ws/build/aruco_transforms/CMakeFiles/install.dir
+/home/cobot/cobot-ws/build/aruco_transforms/CMakeFiles/install/local.dir
+/home/cobot/cobot-ws/build/aruco_transforms/CMakeFiles/install/strip.dir

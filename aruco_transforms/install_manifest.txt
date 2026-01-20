@@ -1,0 +1,17 @@
+/home/cobot/cobot-ws/install/aruco_transforms/include/aruco_transforms_params/aruco_transforms_params.hpp
+/home/cobot/cobot-ws/install/aruco_transforms/lib/aruco_transforms/aruco_transforms
+/home/cobot/cobot-ws/install/aruco_transforms/share/ament_index/resource_index/package_run_dependencies/aruco_transforms
+/home/cobot/cobot-ws/install/aruco_transforms/share/ament_index/resource_index/parent_prefix_path/aruco_transforms
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/environment/ament_prefix_path.sh
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/environment/ament_prefix_path.dsv
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/environment/path.sh
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/environment/path.dsv
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/local_setup.bash
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/local_setup.sh
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/local_setup.zsh
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/local_setup.dsv
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/package.dsv
+/home/cobot/cobot-ws/install/aruco_transforms/share/ament_index/resource_index/packages/aruco_transforms
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/cmake/aruco_transformsConfig.cmake
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/cmake/aruco_transformsConfig-version.cmake
+/home/cobot/cobot-ws/install/aruco_transforms/share/aruco_transforms/package.xml
