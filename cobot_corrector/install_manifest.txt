@@ -1,0 +1,17 @@
+/home/cobot/cobot-ws/install/cobot_corrector/include/cobot_corrector_params/cobot_corrector_params.hpp
+/home/cobot/cobot-ws/install/cobot_corrector/lib/cobot_corrector/cobot_corrector
+/home/cobot/cobot-ws/install/cobot_corrector/share/ament_index/resource_index/package_run_dependencies/cobot_corrector
+/home/cobot/cobot-ws/install/cobot_corrector/share/ament_index/resource_index/parent_prefix_path/cobot_corrector
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/environment/ament_prefix_path.sh
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/environment/ament_prefix_path.dsv
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/environment/path.sh
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/environment/path.dsv
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/local_setup.bash
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/local_setup.sh
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/local_setup.zsh
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/local_setup.dsv
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/package.dsv
+/home/cobot/cobot-ws/install/cobot_corrector/share/ament_index/resource_index/packages/cobot_corrector
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/cmake/cobot_correctorConfig.cmake
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/cmake/cobot_correctorConfig-version.cmake
+/home/cobot/cobot-ws/install/cobot_corrector/share/cobot_corrector/package.xml
