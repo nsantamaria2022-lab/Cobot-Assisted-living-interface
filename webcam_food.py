@@ -1,3 +1,4 @@
+#best_fcnn_model.pth and category_ids.txt should be in the same folder with this
 import os
 import cv2
 import torch
